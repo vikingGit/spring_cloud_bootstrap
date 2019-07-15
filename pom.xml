@@ -11,6 +11,7 @@
     <modules>
         <module>configure</module>
         <module>discovery</module>
+        <module>gateway</module>
     </modules>
 
     <parent>
